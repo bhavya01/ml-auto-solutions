@@ -1,6 +1,6 @@
 # ML Automation Solutions (MAS)
 
-A simplified and automated orchestration workflow to perform ML end-to-end (E2E) model tests and benchmarking on Cloud VMs across different frameworks.
+A simplified and automated orchestration workflow to perform ML end-to-end (E2E) model tests and benchmarking on Cloud VMs across different fframeworks.
 
 ## Getting Started
 
